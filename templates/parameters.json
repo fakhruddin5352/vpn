@@ -1,0 +1,26 @@
+[
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "$INSTANCE_TYPE"
+  },
+  {
+    "ParameterKey": "CidrBlock",
+    "ParameterValue": "$CIDR_VPC"
+  },
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "$KEYPAIR_NAME"
+  },
+  {
+    "ParameterKey": "ImageId",
+    "ParameterValue": "$AMI"
+  },
+  {
+    "ParameterKey": "PrimaryAvailabilityZone",
+    "ParameterValue": "$PRIMARY_AVAILABILITY_ZONE"
+  },
+  {
+    "ParameterKey": "PrimaryCidrBlock",
+    "ParameterValue": "$PRIMARY_CIDR_BLOCK"
+  }
+]
