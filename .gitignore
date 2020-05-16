@@ -1,9 +1,7 @@
 bundle
 *.pem
-auto_install.sh
-auto_cleanup.sh
-auto_client.sh
 *.ovpn
+*.stack
 clients
 connect.sh
 copy_script.sh

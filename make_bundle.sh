@@ -13,5 +13,6 @@ cp make_client.sh bundle/
 cp show.sh bundle/
 cp env.sh bundle/
 cp cleanup.sh bundle/
-
+cp game.sh bundle/
+cp -R stacks bundle/
 

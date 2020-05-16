@@ -3,7 +3,6 @@
 source scripts/00-common.sh
 
 
-STACK_NAME="${STACK_NAME:-fsvpn)}"
 DOMAIN="${DOMAIN:-fakhruddinsaleem.xyz}"
 VOLUME_NAME="${VOLUME_NAME:-$STACK_NAME}"
 
